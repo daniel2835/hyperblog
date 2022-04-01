@@ -14,5 +14,6 @@ Este es mi hyperblog tuneado de Git y Github del curso que lleva el mismo nombre
 - Trucos muy locos del profesor
 - Las múltiples personalidades de Freddy
 - Creado por el increíble Platzi Team.
+- Incluye ejemplos en Windows, Linux y Mac.
 
 Y como un amable recordatorio: _Este **readme.md** es un chiste_. Diseñado para el ejemplo. Si llegas acá _NO TE LO TOMES EN SERIO_ (a excepción de mi mención a las buenas prácticas y cosas positivas aprendidas en el curso), y te recomiendo encarecidamente que te suscribas a Platzi 💚 y tomes los cursos dependiendo de la temática que quieras potenciar en tu vida. El [Curso de Git y Github](https://platzi.com/cursos/git-github) está totalmente disponible para que le saques el mejor provecho.
